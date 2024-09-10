@@ -1,7 +1,7 @@
 <h1 align="center">~ 𝓑𝓪𝓴𝓪 𝓢𝓱𝓲𝓷𝓳𝓲 ~</h1>
 
 <div align="center">
-  <a href="https://egirl.ing/">
+  <a href="https://www.discord.com/users/486540939993546773">
     <img src="https://lanyard.kyrie25.me/api/486540939993546773?waveColor=FFCFE9&waveSpotifyColor=ffcfe9&gradient=FFCFE9-FF9AD0-FFCFE9&imgStyle=square" alt="Profile Card"/>
   </a>
   <br>
@@ -18,6 +18,11 @@
 
 <div>
   <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFCFE9&size=24&width=500&lines=Anime+Enthusiast;Game+Developer?;A+pretty+bored+person;Video+Gamer;Asuka+on+top!!;Software+Developer" alt="Typing SVG" />
+  </a>
+</div>
   <div align="center">
     <img src="https://github.com/uAreASimp/ProfileReadMe/blob/main/reiSpinFix.gif?raw=true" align="right" alt="Rei Spin">
   </div>
