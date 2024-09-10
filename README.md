@@ -92,9 +92,9 @@
 
 <h2 align="center"> 📊 ~ 𝒞𝑜𝑜𝓁 𝓈𝓉𝒶𝓉𝓈 ~ 📊 </h2>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=uareasimp&show_icons=true&locale=en&title_color=9e4c98&bg_color=ffcfe9&icon_color=9e4c98&text_color=9e4c98" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=uareasimp&show_icons=true&locale=en&title_color=9e4c98&bg_color=ffcfe9&icon_color=9e4c98&text_color=9e4c98" alt="GitHub Stats" width="450" />
 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=uareasimp&stroke=9e4c98&background=ffcfe9&dates=9e4c98&sideNums=9e4c98&currStreakNum=9e4c98&currStreakLabel=9e4c98&sideLabels=9e4c98&ring=EB5454&fire=EB5454" alt="Streak Stats" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=uareasimp&stroke=9e4c98&background=ffcfe9&dates=9e4c98&sideNums=9e4c98&currStreakNum=9e4c98&currStreakLabel=9e4c98&sideLabels=9e4c98&ring=EB5454&fire=EB5454" alt="Streak Stats" width="450" />
 
   <br clear="both">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=uAreASimp&radius=16&theme=default&area=true&order=5" height="300" alt="Activity Graph" />
