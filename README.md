@@ -1,18 +1,46 @@
-<h1 align="center">Hiya, I'm Emi!</h1>
-
+<body>
+  <center>
+<h1 align="center">~ 𝓑𝓪𝓴𝓪 𝓢𝓱𝓲𝓷𝓳𝓲 ~</h1>
+<br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=9E4C98&size=24&width=500&lines=Anime+Enthusiast;Game+Developer?;A+pretty+bored+person;Video+Gamer;Asuka+on+top!!;Software+Developer" alt="Typing SVG" />
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+  <a href="https://egirl.ing/" >
+   <img src="https://lanyard.kyrie25.me/api/486540939993546773?waveColor=FFCFE9&waveSpotifyColor=ffcfe9&gradient=FFCFE9-FF9AD0-FFCFE9&imgStyle=square"  />
   </a>
+    <br>
+  <p>𝒜𝓃𝓎𝓌𝒽𝑒𝓇𝑒 𝒸𝒶𝓃 𝒷𝑒 𝓅𝒶𝓇𝒶𝒹𝒾𝓈𝑒</p>
+  <p>𝒶𝓈 𝓁𝑜𝓃𝑔 𝒶𝓈 𝓎𝑜𝓊 𝒽𝒶𝓋𝑒 𝓉𝒽𝑒 𝓌𝒾𝓁𝓁 𝓉𝑜 𝓁𝒾𝓋𝑒.</p>
+  <p>𝒜𝒻𝓉𝑒𝓇 𝒶𝓁𝓁, 𝓎𝑜𝓊 𝒶𝓇𝑒 𝒶𝓁𝒾𝓋𝑒,</p>
+<p>𝓈𝑜 𝓎𝑜𝓊 𝓌𝒾𝓁𝓁 𝒶𝓁𝓌𝒶𝓎𝓈 𝒽𝒶𝓋𝑒 𝓉𝒽𝑒 𝒸𝒽𝒶𝓃𝒸𝑒 𝓉𝑜 𝒷𝑒 𝒽𝒶𝓅𝓅𝓎.</p>
+<p><a href="https://www.youtube.com/watch?v=Ixi0sUpLVRc">- 𝐹𝐿𝒴 𝑀𝐸 𝒯𝒪 𝒯𝐻𝐸 𝑀𝒪𝒪𝒩 -</a><p>
+  
+</div>
+    <div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+      </div>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://github.com/uAreASimp/ProfileReadMe/blob/main/reiSpin.webp?raw=true" align="right"">
+  </div>
+<li>
+ <b>Name:</b> Emi</li>
+<li>
+<b>Loves:</b> anime, music, rhythm games
+</li>
+<li>
+<b>Gender:</b> she/her/Female
+</li>
+<li>
+<b>LastFM:</b> https://www.last.fm/user/uAreASimq
+</li>
+<li>
+<b>Hobbies:</b> Programming, Kayaking, Yapping
+</li>
+<br><br><br>
 </div>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=uareasimp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<img align="right" height="150" src="https://github.com/uAreASimp/ProfileReadMe/blob/main/pfp.jpg?raw=true" alt="Profile Picture" />
-
-### 🎵 Spotify Playing
+### 🎵 Jamming to
 
 <a href="https://open.spotify.com/user/bxgmzn57hj59tdyyyr13hlrvk">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bxgmzn57hj59tdyyyr13hlrvk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ffcfe9&bar_color_cover=false" alt="Spotify Now Playing" />
@@ -59,9 +87,11 @@
   </a>
 </p>
 
+
 <br clear="both"><br><br>
 <div align="center">
-  
+
+  ## 📊 ~ 𝒞𝑜𝑜𝓁 𝓈𝓉𝒶𝓉𝓈 ~ 📊
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=uareasimp&show_icons=true&locale=en&title_color=9e4c98&bg_color=ffcfe9&icon_color=9e4c98&text_color=9e4c98" alt="GitHub Stats" />
   </p>
@@ -78,5 +108,7 @@
 
   <br clear="both"><br><br>
 </div>
-
+</div>
+    </center>
+</body>
 
