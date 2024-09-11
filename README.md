@@ -1,4 +1,4 @@
-<h1 align="center">~ 𝓑𝓪𝓴𝓪 𝓢𝓱𝓲𝓷𝓳𝓲 ~</h1>
+<h1 align="center">~ 𝓐𝓷𝓽𝓪 𝓑𝓪𝓴𝓪? ~</h1>
 
 <div align="center">
   <a href="https://www.discord.com/users/486540939993546773">
@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <h2 align="center"> 🌸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🌸 </h2>
   <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFCFE9&size=24&width=500&lines=Anime+Enthusiast;Game+Developer?;A+pretty+bored+person;Video+Gamer;Asuka+on+top!!;Software+Developer" alt="Typing SVG" />
